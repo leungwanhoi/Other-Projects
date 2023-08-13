@@ -1,5 +1,3 @@
-#SID: 1155142877
-
 from abc import abstractmethod
 from enum import Enum
 
